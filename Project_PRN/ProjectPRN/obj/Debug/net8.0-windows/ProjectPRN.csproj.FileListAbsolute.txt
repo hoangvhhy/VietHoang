@@ -1,0 +1,537 @@
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.exe
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\appsettings.json
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.deps.json
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.runtimeconfig.json
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.pdb
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Humanizer.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.csproj.AssemblyReference.cache
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\App.g.cs
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN_MarkupCompile.cache
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN_MarkupCompile.lref
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\MainWindow.baml
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.g.resources
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.GeneratedMSBuildEditorConfig.editorconfig
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.AssemblyInfoInputs.cache
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.AssemblyInfo.cs
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.csproj.CoreCompileInputs.cache
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.csproj.Up2Date
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\refint\ProjectPRN.dll
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.pdb
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.genruntimeconfig.cache
+E:\ki5\PRN212\Project\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ref\ProjectPRN.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.csproj.AssemblyReference.cache
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\App.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN_MarkupCompile.cache
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN_MarkupCompile.lref
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\refint\ProjectPRN.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.pdb
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.exe
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\appsettings.json
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.deps.json
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.runtimeconfig.json
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.pdb
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Humanizer.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Register.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\MainWindow.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Register.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.g.resources
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.GeneratedMSBuildEditorConfig.editorconfig
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.AssemblyInfoInputs.cache
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.AssemblyInfo.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.csproj.CoreCompileInputs.cache
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.sourcelink.json
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.csproj.Up2Date
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.genruntimeconfig.cache
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ref\ProjectPRN.dll
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Home.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Home.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\WindowProduct.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\WindowProduct.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Admin.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Login.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Staff.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Admin.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Login.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Staff.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Cart.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Cart.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\EditProfile.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\EditProfile.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ChangePassword.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ChangePassword.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Nhaphang.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Nhaphang.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminStatistic.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminStatistic.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Invoice.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Invoice.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageBall\bongdongluc.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageBall\bongkamitotango.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageBall\bongmoltenuefa.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageBall\bongnikeflight.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageBall\bongworldcupadidas.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN_Content.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageAnother\adidas_sports_tape - Copy.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageAnother\adidas_sports_tape.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageAnother\kamito_cool_shoe_bag.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageAnother\nike_classic_II_white.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageAnother\puma_ultra_flex_pink_shin_guards.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageGloves\adidas_predator_black - Copy.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageGloves\adidas_predator_black.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageGloves\puma_ultra_flex_pink_shin_guards.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageGloves\reusch_attrakt_white.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageGloves\uhlsport_hyperact_supergrip_blue.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageKit\barcakit.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageKit\chelseakit.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageKit\mukit.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageKit\realkit.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageKit\vnkit.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageShoe\adidaspedator.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageShoe\kamitota11.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageShoe\mizunorebula.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageShoe\nikemercurial.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageShoe\pumafuture.jpg
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageAnother\shrek.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.exe
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageAnother\adidas_sports_tape - Copy.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageAnother\adidas_sports_tape.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageAnother\kamito_cool_shoe_bag.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageAnother\nike_classic_II_white.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageAnother\puma_ultra_flex_pink_shin_guards.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageAnother\shrek.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageBall\bongdongluc.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageBall\bongkamitotango.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageBall\bongmoltenuefa.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageBall\bongnikeflight.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageBall\bongworldcupadidas.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageGloves\adidas_predator_black - Copy.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageGloves\adidas_predator_black.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageGloves\puma_ultra_flex_pink_shin_guards.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageGloves\reusch_attrakt_white.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageGloves\uhlsport_hyperact_supergrip_blue.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageKit\barcakit.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageKit\chelseakit.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageKit\mukit.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageKit\realkit.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageKit\vnkit.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageShoe\adidaspedator.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageShoe\kamitota11.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageShoe\mizunorebula.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageShoe\nikemercurial.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\image\imageShoe\pumafuture.jpg
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\appsettings.json
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.deps.json
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.runtimeconfig.json
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ProjectPRN.pdb
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Humanizer.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.csproj.AssemblyReference.cache
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Home.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Admin.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminStatistic.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Cart.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ChangePassword.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\EditProfile.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Home.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Invoice.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Login.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Nhaphang.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Register.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Staff.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\WindowProduct.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\App.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN_Content.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN_MarkupCompile.cache
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN_MarkupCompile.lref
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Admin.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminStatistic.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Cart.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ChangePassword.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\EditProfile.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Invoice.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Login.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\MainWindow.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Nhaphang.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Register.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\Staff.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\WindowProduct.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.g.resources
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.AssemblyInfoInputs.cache
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.AssemblyInfo.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.csproj.CoreCompileInputs.cache
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.sourcelink.json
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.csproj.Up2Date
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\refint\ProjectPRN.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.pdb
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ProjectPRN.genruntimeconfig.cache
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\ref\ProjectPRN.dll
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\PendingOrder.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\PendingOrder.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AddAdress.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AddPhoneNumber.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\OrderDetailWindow.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\OrderHistory.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AddAdress.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AddPhoneNumber.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\OrderDetailWindow.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\OrderHistory.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AddAdress.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AddPhoneNumber.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminImport.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminProduct.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminSell.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\OrderDetailWindow.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\OrderHistory.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\PendingOrder.g.cs
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AddAdress.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AddPhoneNumber.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminImport.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminProduct.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminSell.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\OrderDetailWindow.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\OrderHistory.baml
+D:\DH-FPT\Github\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\PendingOrder.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminImport.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminProduct.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminSell.g.cs
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminImport.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminProduct.baml
+E:\FPT edu\PRN212\ProjectPRN212\ProjectPRN\obj\Debug\net8.0-windows\AdminSell.baml

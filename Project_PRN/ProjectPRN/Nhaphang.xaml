@@ -1,0 +1,46 @@
+﻿<Window x:Class="ProjectPRN.Nhaphang"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectPRN"
+        mc:Ignorable="d"
+        Title="Nhaphang" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Form nhập hàng -->
+        <StackPanel Orientation="Vertical" Grid.Row="0" Margin="0 0 0 10">
+            <TextBlock Text="Chọn sản phẩm:"/>
+            <ComboBox x:Name="cbxProduct" Width="200"/>
+
+            <TextBlock Text="Số lượng nhập:"/>
+            <TextBox x:Name="txtQuantity" Width="200"/>
+
+            <TextBlock Text="Giá nhập:"/>
+            <TextBox x:Name="txtImportPrice" Width="200" 
+         PreviewTextInput="txtImportPrice_PreviewTextInput"
+         TextChanged="txtImportPrice_TextChanged"/>
+
+
+            <TextBlock Text="Ngày nhập:"/>
+            <DatePicker x:Name="dpImportDate" Width="200" SelectedDate="{x:Static sys:DateTime.Now}" xmlns:sys="clr-namespace:System;assembly=mscorlib"/>
+
+            <Button x:Name="btnAdd" Content="Thêm" Width="100" Margin="0 10 0 0" Click="btnAdd_Click"/>
+            <Button Name="btnback" Content="Trở lại" Width="100" Margin="0 10 0 0" Click="btnBack_Click"/>
+        </StackPanel>
+
+        <!-- DataGrid hiển thị danh sách nhập hàng -->
+        <DataGrid x:Name="dgvImportList" Grid.Row="1" AutoGenerateColumns="False" Language="vi-VN">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Sản phẩm" Binding="{Binding ProductName,Mode=OneWay}"/>
+                <DataGridTextColumn Header="Số lượng" Binding="{Binding Quantity,Mode=OneWay}"/>
+                <DataGridTextColumn Header="Giá nhập" Binding="{Binding ImportPrice, StringFormat={}{0:N0},Mode=OneWay}"/>
+                <DataGridTextColumn Header="Ngày nhập" Binding="{Binding ImportDate,Mode=OneWay}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

@@ -1,0 +1,83 @@
+﻿<Window x:Class="ProjectPRN.Invoice"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectPRN"
+        mc:Ignorable="d"
+        Title="Invoice" Height="450" Width="800" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid Margin="10">
+        <!-- Define Rows for Layout -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Header -->
+            <RowDefinition Height="Auto"/>
+            <!-- Customer Info -->
+            <RowDefinition Height="*"/>
+            <!-- Invoice Items -->
+            <RowDefinition Height="Auto"/>
+            <!-- Total Price and Button -->
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <TextBlock Grid.Row="0" Text="HÓA ĐƠN THANH TOÁN" FontSize="24" FontWeight="Bold" 
+               HorizontalAlignment="Center" Margin="0,10,0,20"/>
+
+        <!-- Customer Information -->
+        <StackPanel Grid.Row="1" Orientation="Vertical" Margin="10">
+            <TextBlock Text="Thông tin người đặt:" FontSize="18" FontWeight="Bold"/>
+            <TextBlock x:Name="txtCustomerName" Text="Tên: " FontSize="16" Margin="0,5,0,0"/>
+            <!--<TextBlock x:Name="txtCustomerPhone" Text="Số điện thoại: " FontSize="16" Margin="0,5,0,0"/>-->
+
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,5,0,0">
+                <TextBlock Text="Số điện thoại" FontSize="16" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                <ComboBox x:Name="cbCustomerPhone" FontSize="14" Width="200" Margin="0,0,5,0"/>
+                <Button Name="btnAddPhoneNumber" Content="Thêm SĐT mới" Width="120" Height="30" Background="LightBlue" Foreground="Black" 
+            Click="btnAddPhoneNumber_Click"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,5,0,0">
+                <TextBlock Text="Địa chỉ: " FontSize="16" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                <ComboBox x:Name="cbCustomerAddress" FontSize="14" Width="500" Margin="0,0,5,0"/>
+                <Button Name="btnAddAddress" Content="Thêm địa chỉ mới" Width="120" Height="30" Background="LightBlue" Foreground="Black" 
+                        Click="btnAddAddress_Click"/>
+            </StackPanel>
+        </StackPanel>
+
+
+        <!-- DataGrid for Invoice Items -->
+        <DataGrid Grid.Row="2" x:Name="dgvDisplay" AutoGenerateColumns="False" IsReadOnly="True" Margin="10" 
+              CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Tên sản phẩm" Binding="{Binding Product.ProductName}" Width="*"/>
+                <DataGridTextColumn Header="Số lượng" Binding="{Binding Quantity}" Width="100"/>
+                <DataGridTextColumn Header="Giá (VND)" Binding="{Binding Product.Price, StringFormat={}{0:N0}}" Width="120"/>
+                <DataGridTextColumn Header="Tổng tiền (VND)" Binding="{Binding TotalPrice, StringFormat={}{0:N0}}" Width="150"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Total Price and Button -->
+        <Grid Grid.Row="3" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <!-- Spacer -->
+                <ColumnDefinition Width="Auto"/>
+                <!-- Total Price -->
+                <ColumnDefinition Width="Auto"/>
+                <!-- Button -->
+            </Grid.ColumnDefinitions>
+
+            <!-- Total Price -->
+            <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
+                <TextBlock Text="Tổng cộng: " FontSize="16" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                <TextBlock x:Name="txtTotalPrice" FontSize="16" FontWeight="Bold" Foreground="Red" VerticalAlignment="Center"/>
+            </StackPanel>
+
+            <!-- Payment Confirmation Button -->
+            <Button Grid.Column="2" Content="Xác nhận thanh toán" Name="btnAcceptPay" Width="180" Height="40" 
+                Background="Green" Foreground="White" FontWeight="Bold" Margin="10,0,0,0" 
+                Click="btnAcceptPay_Click"/>
+        </Grid>
+    </Grid>
+
+</Window>

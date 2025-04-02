@@ -1,0 +1,108 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 13, 2025, 1:49:38 PM
+    Author     : laptop 368
+*/
+
+body {
+    background-color: #f0f8ff;
+}
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.btn-primary {
+    background-color: #4a90e2;
+    border-color: #4a90e2;
+}
+.btn-primary:hover {
+    background-color: #357abd;
+    border-color: #357abd;
+}
+.border {
+    border-color: #4a90e2 !important;
+}
+.doctor-info {
+    background-color: #e3f2fd;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #0d47a1;
+}
+
+/* Scope styles to this page’s container */
+.container {
+    margin-left: 250px; /* Default margin for expanded sidebar */
+    width: calc(100% - 250px); /* Adjust width based on expanded sidebar */
+    transition: all 0.3s ease; /* Smooth transition for resizing */
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Adjust container when sidebar is collapsed */
+.sidebar.collapsed ~ .container {
+    margin-left: 80px; /* Margin for collapsed sidebar */
+    width: calc(100% - 80px); /* Adjust width accordingly */
+}
+
+/* Ensure content inside container is fully responsive */
+.container .content {
+    width: 100%;
+}
+
+/* Form-specific styling */
+.form-label {
+    font-weight: bold;
+}
+
+.border {
+    border: 1px solid #dee2e6 !important;
+}
+
+.shift-time {
+    margin-top: 10px;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    .container {
+        margin-left: 0; /* No margin when sidebar is hidden */
+        width: 100%;
+    }
+
+    .sidebar:not(.collapsed) ~ .container {
+        margin-left: 200px; /* Adjust for expanded sidebar on mobile */
+        width: calc(100% - 200px);
+    }
+}
+
+/* Visual enhancements */
+.text-primary {
+    color: #007bff !important;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #5a6268;
+}

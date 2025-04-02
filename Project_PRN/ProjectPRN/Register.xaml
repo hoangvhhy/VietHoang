@@ -1,0 +1,37 @@
+﻿<Window x:Class="ProjectPRN.Register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectPRN"
+        mc:Ignorable="d"
+        Title="Register" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Đăng ký tài khoản" FontSize="20" FontWeight="Bold" Foreground="DarkBlue" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Họ và tên:" Width="500"/>
+            <TextBox x:Name="txtFullName" Width="500"/>
+
+            <TextBlock Text="Email:" Margin="0,10,0,0" Width="500"/>
+            <TextBox x:Name="txtEmail" Width="500"/>
+
+            <TextBlock Text="Số điện thoại:" Margin="0,10,0,0" Width="500"/>
+            <TextBox x:Name="txtPhone"  Width="500"/>
+
+            <TextBlock Text="Địa chỉ:" Margin="0,10,0,0" Width="500"/>
+            <TextBox x:Name="txtAddress" Width="500"/>
+
+            <TextBlock Text="Mật khẩu:" Margin="0,10,0,0" Width="500"/>
+            <PasswordBox x:Name="txtPassword" Width="500"/>
+
+            <TextBlock Text="Xác nhận mật khẩu:" Margin="0,10,0,0" Width="500"/>
+            <PasswordBox x:Name="txtConfirmPassword" Width="500"/>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+                <Button x:Name="btnRegister" Content="Đăng ký" Width="100" Height="30" Margin="10" Click="btnRegister_Click"/>
+                <Button x:Name="btnCancel" Content="Hủy" Width="100" Height="30" Margin="10" Click="btnCancel_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

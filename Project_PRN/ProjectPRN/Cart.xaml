@@ -1,0 +1,91 @@
+﻿<Window x:Class="ProjectPRN.Cart"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectPRN"
+        mc:Ignorable="d"
+        Title="Cart" Height="500" Width="600" WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <!-- Header -->
+        <TextBlock Text="Giỏ hàng của bạn" FontSize="28" FontWeight="Bold" Foreground="#007ACC" 
+                   HorizontalAlignment="Left" Margin="0,0,0,20"/>
+
+        <!-- Main Content -->
+        <Grid Margin="0,50,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <!-- Cart Items List -->
+            <ScrollViewer Grid.Row="0" VerticalScrollBarVisibility="Auto" Margin="0,0,0,10">
+                <ItemsControl x:Name="cartList">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <StackPanel />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Border BorderThickness="1" BorderBrush="#D6D6D6" CornerRadius="10" Padding="10" Margin="0,0,0,15">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="120" />
+                                        <ColumnDefinition Width="*" />
+                                        <ColumnDefinition Width="Auto" />
+                                    </Grid.ColumnDefinitions>
+
+                                    <!-- Product Image -->
+                                    <Image Source="{Binding Product.Image}" Width="100" Height="100" Stretch="UniformToFill" Margin="10"/>
+
+                                    <!-- Product Details -->
+                                    <StackPanel Grid.Column="1" Margin="10,0,0,0">
+                                        <TextBlock Text="{Binding Product.ProductName}" FontWeight="Bold" FontSize="16" TextTrimming="CharacterEllipsis" />
+                                        <TextBlock Text="{Binding Product.Brand}" FontSize="14" Foreground="Gray" Margin="0,5,0,0" />
+                                        <TextBlock Text="{Binding Product.Price, StringFormat=C0}" FontSize="14" Foreground="Red" Margin="0,5,0,0" />
+
+                                        <!-- Quantity Control -->
+                                        <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                                            <Button Content="-" Name="btnDecrease" Width="30" Height="30" Background="#FF4D4D" Foreground="White" 
+                                                    FontWeight="Bold" Click="btnDecrease_Click"/>
+                                            <TextBlock Text="{Binding Quantity}" Width="50" TextAlignment="Center" VerticalAlignment="Center" 
+                                                       FontSize="14" Margin="5" />
+                                            <Button Content="+" Name="btnIncrease" Width="30" Height="30" Background="#28A745" Foreground="White" 
+                                                    FontWeight="Bold" Click="btnIncrease_Click"/>
+                                        </StackPanel>
+                                    </StackPanel>
+
+                                    <!-- Remove Button -->
+                                    <Button Content="Xóa" Name="btnDeleteCart" Background="#FF4D4D" Foreground="White" 
+                                            FontWeight="Bold" Width="80" Height="30" 
+                                            HorizontalAlignment="Right" VerticalAlignment="Center" 
+                                            Grid.Column="2" Click="btnDeleteCart_Click"/>
+                                </Grid>
+                            </Border>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </ScrollViewer>
+
+            <!-- Footer Section -->
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="200" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Total Price -->
+                <TextBlock x:Name="txtTotalPrice" Text="Tổng tiền: 0 VND" FontSize="18" FontWeight="Bold" 
+                           Foreground="#28A745" VerticalAlignment="Center" />
+
+                <!-- Checkout Button -->
+                <Button Content="Thanh toán"
+                        Name="btnPay"
+                        Width="180" Height="40" Grid.Column="1"
+                        Background="#007ACC" Foreground="White" FontWeight="Bold" 
+                        HorizontalAlignment="Right" Click="btnPay_Click"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

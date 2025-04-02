@@ -1,0 +1,143 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="image\imageAnother\adidas_sports_tape - Copy.jpg" />
+    <None Remove="image\imageAnother\adidas_sports_tape.jpg" />
+    <None Remove="image\imageAnother\kamito_cool_shoe_bag.jpg" />
+    <None Remove="image\imageAnother\nike_classic_II_white.jpg" />
+    <None Remove="image\imageAnother\puma_ultra_flex_pink_shin_guards.jpg" />
+    <None Remove="image\imageAnother\shrek.jpg" />
+    <None Remove="image\imageBall\bongdongluc.jpg" />
+    <None Remove="image\imageBall\bongkamitotango.jpg" />
+    <None Remove="image\imageBall\bongmoltenuefa.jpg" />
+    <None Remove="image\imageBall\bongnikeflight.jpg" />
+    <None Remove="image\imageBall\bongworldcupadidas.jpg" />
+    <None Remove="image\imageGloves\adidas_predator_black - Copy.jpg" />
+    <None Remove="image\imageGloves\adidas_predator_black.jpg" />
+    <None Remove="image\imageGloves\puma_ultra_flex_pink_shin_guards.jpg" />
+    <None Remove="image\imageGloves\reusch_attrakt_white.jpg" />
+    <None Remove="image\imageGloves\uhlsport_hyperact_supergrip_blue.jpg" />
+    <None Remove="image\imageKit\barcakit.jpg" />
+    <None Remove="image\imageKit\chelseakit.jpg" />
+    <None Remove="image\imageKit\mukit.jpg" />
+    <None Remove="image\imageKit\realkit.jpg" />
+    <None Remove="image\imageKit\vnkit.jpg" />
+    <None Remove="image\imageShoe\adidaspedator.jpg" />
+    <None Remove="image\imageShoe\kamitota11.jpg" />
+    <None Remove="image\imageShoe\mizunorebula.jpg" />
+    <None Remove="image\imageShoe\nikemercurial.jpg" />
+    <None Remove="image\imageShoe\pumafuture.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="image\imageAnother\adidas_sports_tape - Copy.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageAnother\adidas_sports_tape.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageAnother\kamito_cool_shoe_bag.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageAnother\nike_classic_II_white.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageAnother\puma_ultra_flex_pink_shin_guards.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageAnother\shrek.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageBall\bongdongluc.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageBall\bongkamitotango.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageBall\bongmoltenuefa.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageBall\bongnikeflight.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageBall\bongworldcupadidas.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageGloves\adidas_predator_black - Copy.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageGloves\adidas_predator_black.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageGloves\puma_ultra_flex_pink_shin_guards.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageGloves\reusch_attrakt_white.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageGloves\uhlsport_hyperact_supergrip_blue.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageKit\barcakit.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageKit\chelseakit.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageKit\mukit.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="image\imageKit\realkit.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageKit\vnkit.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="image\imageShoe\adidaspedator.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageShoe\kamitota11.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageShoe\mizunorebula.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageShoe\nikemercurial.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="image\imageShoe\pumafuture.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.13">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.13" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.13">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="8.0.1" />
+	</ItemGroup>
+	<ItemGroup>
+	  <None Update="appsettings.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+</Project>

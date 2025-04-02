@@ -1,0 +1,41 @@
+﻿<Window x:Class="ProjectPRN.OrderDetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectPRN"
+        mc:Ignorable="d"
+        Title="OrderDetailWindow" Height="450" Width="800" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid Margin="10">
+        <StackPanel>
+            <!-- Tiêu đề -->
+            <TextBlock Text="Chi tiết đơn hàng" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,10"/>
+
+            <!-- Thông tin khách hàng -->
+            <StackPanel Orientation="Horizontal" Margin="0,10">
+                <TextBlock Text="Tên khách hàng: " FontWeight="Bold" Margin="0,0,5,0"/>
+                <TextBlock x:Name="txtCustomerName" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <TextBlock Text="Số điện thoại: " FontWeight="Bold" Margin="0,0,5,0"/>
+                <TextBlock x:Name="txtCustomerPhone" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,5">
+                <TextBlock Text="Địa chỉ giao hàng: " FontWeight="Bold" Margin="0,0,5,0"/>
+                <TextBlock x:Name="txtCustomerAddress"/>
+            </StackPanel>
+
+            <!-- Danh sách sản phẩm -->
+            <ListView x:Name="lvOrderDetails" Margin="0,20,0,10" Height="250">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Tên sản phẩm" DisplayMemberBinding="{Binding Product.ProductName}" Width="400" />
+                        <GridViewColumn Header="Số lượng" DisplayMemberBinding="{Binding Quantity}" Width="70"/>
+                        <GridViewColumn Header="Giá (VND)" DisplayMemberBinding="{Binding Price, StringFormat={}{0:N0}}" Width="150"/>
+                        <GridViewColumn Header="Tổng tiền (VND)" DisplayMemberBinding="{Binding TotalPrice, StringFormat={}{0:N0}}" Width="150"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Window>

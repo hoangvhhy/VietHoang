@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|d:\\dh-fpt\\github\\projectprn212\\projectprn\\adminstatistic.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|solutionrelative:adminstatistic.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|d:\\dh-fpt\\github\\projectprn212\\projectprn\\adminstatistic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|solutionrelative:adminstatistic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|d:\\dh-fpt\\github\\projectprn212\\projectprn\\pendingorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|solutionrelative:pendingorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|d:\\dh-fpt\\github\\projectprn212\\projectprn\\editprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|solutionrelative:editprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|d:\\dh-fpt\\github\\projectprn212\\projectprn\\orderhistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|solutionrelative:orderhistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|d:\\dh-fpt\\github\\projectprn212\\projectprn\\orderhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|solutionrelative:orderhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|d:\\dh-fpt\\github\\projectprn212\\projectprn\\invoice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|solutionrelative:invoice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|d:\\dh-fpt\\github\\projectprn212\\projectprn\\invoice.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|solutionrelative:invoice.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|d:\\dh-fpt\\github\\projectprn212\\projectprn\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|solutionrelative:home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|d:\\dh-fpt\\github\\projectprn212\\projectprn\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|solutionrelative:register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|d:\\dh-fpt\\github\\projectprn212\\projectprn\\addphonenumber.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|solutionrelative:addphonenumber.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|d:\\dh-fpt\\github\\projectprn212\\projectprn\\addphonenumber.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD0138E-129D-488D-AB87-235B00E05D98}|ProjectPRN.csproj|solutionrelative:addphonenumber.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminStatistic.xaml",
+              "DocumentMoniker": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\AdminStatistic.xaml",
+              "RelativeDocumentMoniker": "AdminStatistic.xaml",
+              "ToolTip": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\AdminStatistic.xaml",
+              "RelativeToolTip": "AdminStatistic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T02:52:15.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminStatistic.xaml.cs",
+              "DocumentMoniker": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\AdminStatistic.xaml.cs",
+              "RelativeDocumentMoniker": "AdminStatistic.xaml.cs",
+              "ToolTip": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\AdminStatistic.xaml.cs",
+              "RelativeToolTip": "AdminStatistic.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:52:14.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PendingOrder.xaml.cs",
+              "DocumentMoniker": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\PendingOrder.xaml.cs",
+              "RelativeDocumentMoniker": "PendingOrder.xaml.cs",
+              "ToolTip": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\PendingOrder.xaml.cs",
+              "RelativeToolTip": "PendingOrder.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:51:24.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderHistory.xaml.cs",
+              "DocumentMoniker": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\OrderHistory.xaml.cs",
+              "RelativeDocumentMoniker": "OrderHistory.xaml.cs",
+              "ToolTip": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\OrderHistory.xaml.cs",
+              "RelativeToolTip": "OrderHistory.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:49:45.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderHistory.xaml",
+              "DocumentMoniker": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\OrderHistory.xaml",
+              "RelativeDocumentMoniker": "OrderHistory.xaml",
+              "ToolTip": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\OrderHistory.xaml",
+              "RelativeToolTip": "OrderHistory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T02:49:32.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.xaml",
+              "DocumentMoniker": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\Invoice.xaml",
+              "RelativeDocumentMoniker": "Invoice.xaml",
+              "ToolTip": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\Invoice.xaml",
+              "RelativeToolTip": "Invoice.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T02:48:03.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "Register.xaml.cs",
+              "ToolTip": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\Register.xaml.cs",
+              "RelativeToolTip": "Register.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAE0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:23:28.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "Home.xaml.cs",
+              "ToolTip": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\Home.xaml.cs",
+              "RelativeToolTip": "Home.xaml.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:33:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditProfile.xaml.cs",
+              "DocumentMoniker": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\EditProfile.xaml.cs",
+              "RelativeDocumentMoniker": "EditProfile.xaml.cs",
+              "ToolTip": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\EditProfile.xaml.cs",
+              "RelativeToolTip": "EditProfile.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:24:05.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Invoice.xaml.cs",
+              "DocumentMoniker": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\Invoice.xaml.cs",
+              "RelativeDocumentMoniker": "Invoice.xaml.cs",
+              "ToolTip": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\Invoice.xaml.cs",
+              "RelativeToolTip": "Invoice.xaml.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAswMoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:17:28.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddPhoneNumber.xaml",
+              "DocumentMoniker": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\AddPhoneNumber.xaml",
+              "RelativeDocumentMoniker": "AddPhoneNumber.xaml",
+              "ToolTip": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\AddPhoneNumber.xaml",
+              "RelativeToolTip": "AddPhoneNumber.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T01:16:15.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddPhoneNumber.xaml.cs",
+              "DocumentMoniker": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\AddPhoneNumber.xaml.cs",
+              "RelativeDocumentMoniker": "AddPhoneNumber.xaml.cs",
+              "ToolTip": "D:\\DH-FPT\\Github\\ProjectPRN212\\ProjectPRN\\AddPhoneNumber.xaml.cs",
+              "RelativeToolTip": "AddPhoneNumber.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:15:29.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 13, 2025, 12:59:11 PM
+    Author     : laptop 368
+*/
+
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+}
+.container {
+    max-width: 900px;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    color: #007bff;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.table {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+}
+.table th {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+}
+.table tbody tr:nth-child(odd) {
+    background-color: #e3f2fd;
+}
+.doctor-header {
+    background-color: #0056b3;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+}
+.manage-btn {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.manage-btn:hover {
+    background-color: #218838;
+}
+.search-container {
+    margin-bottom: 15px;
+    background-color: #e9ecef;
+    padding: 15px;
+    border-radius: 5px;
+}
+.filter-container {
+    margin-bottom: 20px;
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    border-top: 3px solid #6c757d;
+}
+.search-btn {
+    background-color: #007bff;
+    color: white;
+}
+.search-btn:hover {
+    background-color: #0069d9;
+}
+.filter-btn {
+    background-color: #6c757d;
+    color: white;
+}
+.filter-btn:hover {
+    background-color: #5a6268;
+}
+.reset-btn {
+    background-color: #dc3545;
+    color: white;
+    margin-left: 10px;
+}
+.reset-btn:hover {
+    background-color: #c82333;
+}
+.control-label {
+    font-weight: bold;
+}
+.btn-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+    border-radius: 0.2rem;
+}
+
+/* Đảm bảo rằng container chính sẽ điều chỉnh khi sidebar mở */
+.main-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.page-wrapper {
+    display: flex;
+    flex: 1;
+    transition: margin-left 0.3s ease;
+}
+
+.sidebar {
+    position: fixed;
+    height: 100%;
+    z-index: 1000;
+    transition: all 0.3s ease;
+}
+
+/* Khi sidebar mở, điều chỉnh không gian cho container */
+.container.mt-5 {
+    transition: margin-left 0.3s ease, width 0.3s ease;
+    width: calc(100% - 60px); /* 60px là chiều rộng của sidebar khi thu nhỏ */
+    margin-left: 60px;
+}
+
+/* Khi sidebar mở hoàn toàn */
+body:not(.mini-sidebar) .container.mt-5 {
+    width: calc(100% - 225px); /* 225px là chiều rộng của sidebar khi mở */
+    margin-left: 225px;
+}
+
+/* Đảm bảo không gian responsive */
+@media (max-width: 991.98px) {
+    .container.mt-5 {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    body:not(.mini-sidebar) .container.mt-5 {
+        width: 100%;
+        margin-left: 0;
+    }
+}
+
+

@@ -1,0 +1,55 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Mar 29, 2025, 10:57:42 AM
+    Author     : Win11
+*/
+
+/* Phân trang container */
+#pagination-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+/* Nút phân trang */
+.pagination-btn {
+    background: #f8f9fa;
+    color: #333;
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    margin: 0 5px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+/* Hiệu ứng hover */
+.pagination-btn:hover {
+    background: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+
+/* Nút active */
+.pagination-btn.active {
+    background: #0056b3;
+    color: white;
+    border-color: #0056b3;
+    pointer-events: none;
+}
+
+/* Nút next/prev (nếu có) */
+.pagination-btn.prev, .pagination-btn.next {
+    font-weight: bold;
+    background: #e9ecef;
+}
+
+.pagination-btn.prev:hover, .pagination-btn.next:hover {
+    background: #007bff;
+    color: white;
+}
